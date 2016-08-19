@@ -1,0 +1,1 @@
+I like things when they are important things. Some people think things are other things except when they're the thing they think are things.
