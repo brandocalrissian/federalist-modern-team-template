@@ -4,6 +4,8 @@ This is a Jekyll site. It is a simple site to showcase the work of an organizati
 
 This particular site is made for use with the [Federalist](https://github.com/18f/federalist) in mind.
 
+This line of text serves no purpose.
+
 ## 18F Open Source Policy
 
 This repository contains the official [Open Source Policy](policy.md) of [18F](https://18f.gsa.gov/) (a digital delivery team within the [General Services Administration](http://gsa.gov)).
